@@ -12,7 +12,7 @@ void main() {
       title: 'Flutter Demo',
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(
-            seedColor: const Color.fromARGB(255, 94, 12, 236)),
+            seedColor: const Color.fromARGB(255, 94, 15, 236)),
         useMaterial3: true,
       ),
       home: const HomePage(),
