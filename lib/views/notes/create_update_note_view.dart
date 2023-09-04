@@ -5,7 +5,6 @@ import 'package:notes/services/auth/auth_service.dart';
 import 'package:notes/utilities/dialogs/cannot_share_empty_note_dialog.dart';
 import 'package:notes/utilities/generics/get_arguments.dart';
 import 'package:notes/services/cloud/cloud_note.dart';
-import 'package:notes/services/cloud/cloud_storage_exceptions.dart';
 import 'package:notes/services/cloud/firebase_cloud_storage.dart';
 import 'package:share_plus/share_plus.dart';
 
